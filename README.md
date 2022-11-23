@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fatimarida
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Node js
 - 💞️ I’m looking to collaborate on any web development project
 
 <!---
